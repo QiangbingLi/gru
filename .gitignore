@@ -1,0 +1,13 @@
+*.egg
+*.egg-info
+build/
+.vscode/
+*.pyc
+**/__pycache__/
+dist/
+.venv/
+env*/
+.env*
+log/
+bin/translator/
+bin/misc/checkpoint/
