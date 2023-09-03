@@ -15,5 +15,5 @@
 
     $ python bin/inference.py
 
-[Original tutorial](https://www.tensorflow.org/text/tutorials/nmt_with_attention)
+[tutorial](https://www.tensorflow.org/text/tutorials/nmt_with_attention)
 
